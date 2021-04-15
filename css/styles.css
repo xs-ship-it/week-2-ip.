@@ -1,0 +1,28 @@
+body{background-image: url(/home/felix/Documents/Naming-page/images/drop-3698073_1920.jpg);
+    
+}
+
+h1{color:white;
+   position: relative;
+   text-align:center ;
+   top: 20%;
+}
+p{color:white;}
+
+h4{color:white}
+
+li{color:white}
+
+button{background-color: lawngreen;}
+
+
+strong{font-size: xx-large;
+       color: white;
+       background-image: url(/home/felix/Documents/Naming-page/images/butterfly-2049567_1920.jpg);
+
+}
+
+.test-box{color: white;
+          text-align: center;
+          background-image: url(/home/felix/Documents/Naming-page/images/butterfly-2049567_1920.jpg);
+}        
